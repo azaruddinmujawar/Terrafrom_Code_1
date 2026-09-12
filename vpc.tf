@@ -10,4 +10,4 @@ resource "aws_vpc" "FIRST_VPC" {
   }
 }
 
-azar
+
