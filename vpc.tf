@@ -9,3 +9,5 @@ resource "aws_vpc" "FIRST_VPC" {
     Name = each.key
   }
 }
+
+azar
